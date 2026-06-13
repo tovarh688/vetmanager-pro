@@ -96,7 +96,7 @@ Inteligencia de negocio / BI	🔨 En desarrollo
 App móvil	📋 Planificado
 ---
 💼 ¿Eres dueño de una clínica o peluquería canina?
-Este sistema está disponible como SaaS. Planes desde $80.000 COP/mes.
+Este sistema está disponible como SaaS. Plan desde $80.000 COP/mes.
 📩 Contáctame: github.com/tovarh688
 ---
 👨‍💻 Autor
